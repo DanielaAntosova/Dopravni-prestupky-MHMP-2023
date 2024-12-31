@@ -16,4 +16,13 @@ MHMP = Magistrát hl. m. Prahy
 - celkový počet přestupků je cca 947 tis.
 - nejvíce přestupků se děje na Praze 4
 - nejvyšší počet přestupků se děje v lokalitě Brusnický tunel směr Troja (36 tis.)
+- v každém dni roku se stal alespoň jeden přestupek
+- nejvíce přestupků se stalo 19.4.2023 (3 705). Jednalo se o středu - běžný pracovní den.
 
+## Bude třeba dost čistit - sloupce:
+- u sloupce CASSK formát zobecnit na HH:MM
+- MISTOSK - detailně prověřit
+- PRAHA - sjednotit
+- MPZ - sjednotit, zda opravdu každý textový řetězec odpovídá nějaké zemi a zaměřit se na znaky, které nedávají smysl
+- TOVZN - udělat nějaký sloupec, kde bude základní značka
+- PRAVFOR - dát k tomu něco normálního, aby tomu člověk rozuměl
