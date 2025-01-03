@@ -21,7 +21,7 @@ MHMP = Magistrát hl. m. Prahy
 
 ## Bude třeba dost čistit - sloupce:
 - u sloupce CASSK formát zobecnit na HH:MM
-- MISTOSK - detailně prověřit
+- MISTOSK: rozdělit na adresu, číslo, typ umístění (u domu/u sloupu veřejného osvětlení), číslo sloupu veřejného osvětlení
 - PRAHA - sjednotit
 - MPZ - sjednotit, zda opravdu každý textový řetězec odpovídá nějaké zemi a zaměřit se na znaky, které nedávají smysl
 - TOVZN - udělat nějaký sloupec, kde bude základní značka
