@@ -20,15 +20,17 @@ MHMP = Magistrát hl. m. Prahy
 - nejvíce přestupků se stalo 19.4.2023 (3 705). Jednalo se o středu - běžný pracovní den.
 
 ## Bude třeba dost čistit - sloupce:
-- u sloupce CASSK formát zobecnit na HH:MM
-- MISTOSK:
+- u sloupce **CASSK** formát zobecnit na HH:MM
+- **MISTOSK**:
+
   
 - rozdělit na ulici (čistím tam, kde je aspoň 10 výskytů, aby to bylo rozumné)
 - číslo,
 - typ umístění (u domu/u sloupu veřejného osvětlení),
 - číslo sloupu veřejného osvětlení
+
   
-- PRAHA - sjednotit
-- MPZ - sjednotit, zda opravdu každý textový řetězec odpovídá nějaké zemi a zaměřit se na znaky, které nedávají smysl
-- TOVZN - udělat nějaký sloupec, kde bude základní značka
-- PRAVFOR - dát k tomu něco normálního, aby tomu člověk rozuměl
+- **PRAHA** - sjednotit
+- **MPZ** - sjednotit, zda opravdu každý textový řetězec odpovídá nějaké zemi a zaměřit se na znaky, které nedávají smysl
+- **TOVZN** - udělat nějaký sloupec, kde bude základní značka
+- **PRAVFOR** - dát k tomu něco normálního, aby tomu člověk rozuměl
