@@ -40,6 +40,9 @@ Toto čištění a standardizace zajistí konzistentní a dobře strukturovaná 
 
 ![Dashboard screen](https://github.com/DanielaAntosova/Dopravni-prestupky-MHMP-2023/blob/main/Printscreen_dashboardu_prestupku.png "Dashboard_printscreen")
 
+[🔗Dashboard v Power BI](https://github.com/DanielaAntosova/Dopravni-prestupky-MHMP-2023/blob/main/Prestupky.pbix)
+
+
 **📊Statistiky přestupků v Praze za rok 2023:**
 
 - ⚠️Celkový počet přestupků: přibližně 947 tisíc.
