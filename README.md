@@ -42,6 +42,9 @@ Toto čištění a standardizace zajistí konzistentní a dobře strukturovaná 
 
 [🔗Dashboard v Power BI](https://github.com/DanielaAntosova/Dopravni-prestupky-MHMP-2023/blob/main/Prestupky.pbix)
 
+![Dashboard screen](https://github.com/DanielaAntosova/Dopravni-prestupky-MHMP-2023/blob/main/Printscreen_dashboardu_prestupku_Tableau.png "Dashboard_printscreen Tableau")
+
+
 
 **📊Statistiky přestupků v Praze za rok 2023:**
 
