@@ -86,7 +86,7 @@ Celkově graf ukazuje, že většina přestupků pochází od **domácích** ři
 - **Mercedes-Benz** je třetí s 69 tisíci přestupky (8%).
   - Mercedes-Benz má sice méně přestupků než předchozí dvě značky, ale stále patří mezi nejčastější.
 
-**🏎️Přestupky vozů značky Ferrari v Praze:**
+**🏎️Přestupky vozů značky Ferrari v Praze**
 
 - **Počet přestupků**: 131
 - **Lokalita**: Řidiči Ferrari nejčastěji porušují předpisy v **Praze 1**, následované Prahou 4 a Prahou 6.
